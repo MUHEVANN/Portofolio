@@ -1,6 +1,6 @@
 import Image from "next/image";
 import React from "react";
-import profile from "../public/profile.JPG";
+import profile from "../public/profile.jpg";
 const Profile = () => {
   return (
     <div
